@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-1a",
+  "version": "1.0.0",
+  "description": "Example to learn NodeJS and upload it to NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanancardenas/proyecto-1a.git"
+  },
+  "keywords": [
+    "example",
+    "basico"
+  ],
+  "author": "Juan Cárdenas <juanancardenas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanancardenas/proyecto-1a/issues"
+  },
+  "homepage": "https://github.com/juanancardenas/proyecto-1a#readme"
+}
