@@ -1,6 +1,6 @@
 {
   "name": "proyecto-1a",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example to learn NodeJS and upload it to NPM",
   "main": "index.js",
   "scripts": {
